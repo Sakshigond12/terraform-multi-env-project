@@ -201,7 +201,7 @@ After deployment, verify resources from the AWS Console.
 ![Modular Terraform](https://github.com/Sakshigond12/terraform-multi-env-project/blob/360ba9881950efc897bd32798d5355b813fc09b0/Img/Modular-terraform-code.png)
 
 ### 2 Development, Staging and Production Environment Setup
-![Environment Setup](https://github.com/Sakshigond12/terraform-multi-env-project/blob/360ba9881950efc897bd32798d5355b813fc09b0/Img/dev-staging-production-env.png)
+![Environment Setup](https://github.com/Sakshigond12/terraform-multi-env-project/blob/e3544b62e5dc70661ffd29978cfc9635628ec837/Img/dev-staging-production-env.png)
 
 ### 3 Multi Environment VPC Setup
 ![VPC Setup](https://github.com/Sakshigond12/terraform-multi-env-project/blob/360ba9881950efc897bd32798d5355b813fc09b0/Img/multi-env-vpc.png)
