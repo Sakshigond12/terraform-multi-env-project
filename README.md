@@ -1,5 +1,6 @@
-# Multi-Environment Infrastructure using Terraform Workspaces
----
+# Multi-Environment Infrastructure Design Dev, Staging, Production) using Terraform Workspaces  
+
+----
 
 # 📖Project Overview
 
@@ -69,6 +70,15 @@ terraform-multi-env-project
 Terraform Workspaces allow multiple infrastructure environments to be managed using the same Terraform configuration.
 Each workspace maintains a separate state file.
 
+### Terraform Lifecycle
+
+```bash
+terraform init
+terraform plan
+terraform apply
+
+```
+   
 ### Create Workspaces
 
 ```
